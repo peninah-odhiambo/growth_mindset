@@ -1,0 +1,13 @@
+import unittest
+from 
+
+
+mport unittest
+from tdd import solution
+
+class TestSolution (unittest.TestCase):
+	def test_addition (Self):
+		self.AssertTrue (solution (10,20 "+"),30)
+
+if __name__ == "__main__":
+	unittest.main()
