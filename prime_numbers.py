@@ -6,4 +6,4 @@ def prime_number (n):
 		else:
 			print ("prime number")
 
-return n
+	return n
